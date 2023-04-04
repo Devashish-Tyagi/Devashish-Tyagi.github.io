@@ -56,9 +56,10 @@ html{
     margin: 0px 16px;
     
 }    
-#contactlogo1{
+#contactlogo1{ 
     height: 50px;
     width: 50px;
+    border-radius:20px ;
     /* display: none;   */
 
 }
